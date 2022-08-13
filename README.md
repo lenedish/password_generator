@@ -1,2 +1,2 @@
 # password_generator
-Web app that generate a password for you
+Web app that generates a password for you
